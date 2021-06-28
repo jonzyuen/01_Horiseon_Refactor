@@ -1,8 +1,8 @@
-# Code Refactor Starter Code
+# 01_Code_Refactor
 
 Weekly Challenge 01 - Horiseon Code Refactor
 
-https://jonzyuen/github.io/01_Horiseon_Refactor
+https://jonzyuen.github.io/01_Horiseon_Refactor/
 
 Client Criteria:
 GIVEN a webpage meets accessibility standards
